@@ -188,7 +188,7 @@ body{
     }
     .slider{
         
-        height: 195px;
+        height: 180px;
     }
     .head ul li{
         font-size: 10px;
@@ -229,6 +229,20 @@ body{
         font-size: 5px;
         width: 19px;
 
+    }
+    .port{
+        width: 350px;
+        height: 300px;
+        margin-top: 210px;
+    }
+    .port img{
+        width: 150px;
+        height: 75px;
+        margin: 2px;
+    }
+    .port h1{
+        padding: 20px;
+        font-size: 20px;
     }
     
 }
