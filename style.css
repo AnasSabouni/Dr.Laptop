@@ -248,5 +248,19 @@ body{
         padding: 20px;
         font-size: 20px;
     }
+    .fea{
+        width: 400px;
+    }
+    .fea img{
+        width: 300px;
+        height: 150px;
+        float: left;
+    }
+    .des{
+        width: 500px;
+    }
+    .con{
+        width: 400px;
+    }
     
 }
