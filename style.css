@@ -271,7 +271,7 @@ body{
     }
     .con{
         width: 350px;
-        height: 300px;
+        height: 280px;
         margin-top: 30px;
     }
     .con h1{
@@ -283,19 +283,20 @@ body{
     }
     .con label{
         margin-left: 10px;
+        font-size: 16px;
     }
     .con input{
         margin-left: 15px;
-        width: 280px;
+        width: 150px;
     }
     .con .aa{
         height: 40px;
-        width: 150px;
+        width: 310px;
     }
     .asd{
         margin-left: 0px;
-        margin-right: 15px;
-        margin-top: -45px;
+        margin-right: 18px;
+        margin-top: -145px;
         height: 80px;
         width: 150px;
         
