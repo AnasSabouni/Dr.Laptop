@@ -82,7 +82,6 @@ body{
     margin-top: 10px;
 }
 .ser h3{
-    padding-left: 70px;
     background-color:rgb(65, 159, 247);
     width: 90px;
     padding: 10px;
@@ -183,6 +182,7 @@ body{
     
 }
 @media only screen and (max-width:600px){
+
     .head .logo p{
         font-size: 13px;
     }
@@ -204,40 +204,42 @@ body{
         margin-left: 30px;
     }
     .about{
-        width: 400px;
+        width: 350px;
         margin-right: 10px;
     }
     .about h1{
         font-size: 20px;
-        margin-left: 70px;
+        margin-left: 0px;
     }
     .about .pp{
         font-size: 10px;
-        margin-right: 80px;
+        margin-right: 130px;
     }
     .pp{
         margin-left: 130px;
     }
     .ser{
-        width: 100px;
-        height: 100px;
+        width: 80px;
+        height: 130px;
+        margin-right: 19px;
     }
     .ser img{
-        width: 100px;
-        height: 50px;
+        width: 75px;
+        height: 40px;
     }
     .ser p{
         font-size: 10px;
     }
     .ser h3{
         font-size: 5px;
-        width: 19px;
+        width: 10px;
+        margin-top: 10px;
 
     }
     .port{
         width: 350px;
         height: 300px;
-        margin-top: 210px;
+        margin-top: 180px;
     }
     .port img{
         width: 150px;
@@ -249,18 +251,45 @@ body{
         font-size: 20px;
     }
     .fea{
-        width: 400px;
+        width: 350px;
+    }
+    .fea h1{
+        font-size: 20px;
     }
     .fea img{
-        width: 300px;
-        height: 150px;
+        width: 150px;
+        height: 80px;
         float: left;
     }
     .des{
-        width: 500px;
+        width: 200px;
+        margin-right: -100px;
+        margin-top: -25px;
+    }
+    .des h3{
+        margin-left: 70px;
     }
     .con{
-        width: 400px;
+        width: 350px;
+        height: 300px;
+        margin-top: 30px;
+    }
+    .con h1{
+        margin-left: 10px;
+        font-size: 20px;
+    }
+    .con .asd{
+        margin-left: 10px;
+    }
+    .con label{
+        margin-left: 10px;
+    }
+    .con input{
+        margin-left: 15px;
+        width: 280px;
+    }
+    .con .aa{
+        height: 40px;
+    }
     }
     
-}
